@@ -1,0 +1,1 @@
+savedcmd_/home/namth1793/Linux-Device-Driver-Raspberry/GPIO_DRIVER/gpio_driver.mod := printf '%s\n'   gpio_driver.o | awk '!x[$$0]++ { print("/home/namth1793/Linux-Device-Driver-Raspberry/GPIO_DRIVER/"$$0) }' > /home/namth1793/Linux-Device-Driver-Raspberry/GPIO_DRIVER/gpio_driver.mod
